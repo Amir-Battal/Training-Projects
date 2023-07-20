@@ -9,5 +9,5 @@ Projects where only HTML, CSS and JS were used:
 https://github.com/Amir-Battal/Training-Projects/tree/main/HTML%20%26%20CSS%20%26%20JS
 
 Projects where I used React JS framework:
-https://github.com/Amir-Battal/Training-Projects/tree/master/HTML%20%26%20CSS%20%26%20JS
+https://github.com/Amir-Battal/Training-Projects/tree/master/public
 
